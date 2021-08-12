@@ -1,7 +1,4 @@
-# proyecto-prueba
-Prueba Tecnica
-
-Éste es el script para crear la BD:
+1. Para poder testear el proyecto primero debemos ejecutar los scripts de Schema y Data del proyecto:
 
 -- MySQL dump 10.13  Distrib 8.0.21, for Win64 (x86_64)
 --
@@ -61,3 +58,5 @@ UNLOCK TABLES;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
 -- Dump completed on 2021-08-11 22:53:18
+
+2. Luego ir a la dirección /prueba-tecnica para visualizar el Crud creado.
